@@ -42,8 +42,7 @@ This project analyzes the Titanic dataset to predict passenger survival using ma
 ## Instructions to Run Analysis
 ### Google Colab 
 Click the link below to open the complete analysis notebook:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1CBcIb5SRd1VCP85gapMmcC3mgXtz2qpU?usp=sharing)]
-(https://colab.research.google.com/drive/1CBcIb5SRd1VCP85gapMmcC3mgXtz2qpU?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1CBcIb5SRd1VCP85gapMmcC3mgXtz2qpU?usp=sharing)
 
 
 
